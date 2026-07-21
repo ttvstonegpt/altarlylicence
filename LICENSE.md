@@ -6,7 +6,7 @@ Permission is granted to download and use this plugin for private, non-commercia
 
 Allowed:
 - Private server use.
-- 
+
 Not Allowed:
 - Using this plugin on any public Minecraft server without written permission from ALTARLY.
 - Redistributing, re-uploading, or sharing this plugin.
