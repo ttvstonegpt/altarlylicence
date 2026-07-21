@@ -6,14 +6,13 @@ Permission is granted to download and use this plugin for private, non-commercia
 
 Allowed:
 - Private server use.
-- Personal testing.
-- Modification for personal use.
-
+- 
 Not Allowed:
 - Using this plugin on any public Minecraft server without written permission from ALTARLY.
 - Redistributing, re-uploading, or sharing this plugin.
 - Selling this plugin or any modified version.
 - Claiming this plugin as your own.
+- modification
 
 ALTARLY reserves the right to revoke permission for misuse of this software.
 
